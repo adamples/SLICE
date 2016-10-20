@@ -1,0 +1,4 @@
+Polecenia użyte do kompilacji i uruchomienia testów:
+
+gcc -o memtest memtest.c -lslice
+./memtest
